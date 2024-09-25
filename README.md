@@ -6,8 +6,11 @@
 
 <p align="center">
 anime,spaceflight and Make something interesting？
-
-<img src="https://raw.githubusercontent.com/kilokite/kilokite/main/say.svg"/>
+</p>
+</br>
+<img src="https://raw.githubusercontent.com/kilokite/kilokite/main/24aut.svg" width="100%"/>
+</br>
+<img src="https://raw.githubusercontent.com/kilokite/kilokite/main/suisuinianA.svg" width="100%"/>
 </p>
 
 </br>
