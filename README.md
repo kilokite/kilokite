@@ -1,5 +1,5 @@
 <img class="card" src="https://raw.githubusercontent.com/kilokite/kilokite/main/logocardB.svg" width="100%"/>
-<img src="https://raw.githubusercontent.com/kilokite/kilokite/main/24aut.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/kilokite/kilokite/main/25Spr.png" width="100%"/>
 <img src="https://raw.githubusercontent.com/kilokite/kilokite/main/suisuinianA.svg" width="100%"/>
 </br>
 <p align="center" style="background:red">
