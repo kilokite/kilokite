@@ -1,5 +1,7 @@
 <img class="card" src="https://raw.githubusercontent.com/kilokite/kilokite/main/logocardB.svg" width="100%"/>
-<img src="https://raw.githubusercontent.com/kilokite/kilokite/main/25Spr.5.svg" width="100%"/>
+<video src="https://github.com/user-attachments/assets/a952b219-b989-43fc-9bb1-60acb1315a96" autoplay></video>
+<img src="https://raw.githubusercontent.com/kilokite/kilokite/main/25Aug.svg" width="100%"/>
+<!-- <img src="https://raw.githubusercontent.com/kilokite/kilokite/main/25Spr.5.svg" width="100%"/> -->
 <!-- <img src="https://raw.githubusercontent.com/kilokite/kilokite/main/suisuinianA.svg" width="100%"/> -->
 </br>
 <p align="center" style="background:red">
